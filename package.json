@@ -1,5 +1,5 @@
 {
-  "name": "udemy-node-angular2",
+  "name": "udemy-nodejs-angular2",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -15,7 +15,6 @@
     "express": "~4.13.1",
     "hbs": "~3.1.0",
     "mongoose": "^4.4.12",
-    "mongoose-unique-validator": "^1.0.2",
     "morgan": "~1.6.1",
     "reflect-metadata": "0.1.2",
     "rxjs": "5.0.0-beta.2",
